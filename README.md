@@ -56,6 +56,7 @@ I discover I made a variable typo in and it leads to 1/6 of the dataset are nois
 
 Model 6 (version2) in 30 mph:<br/>
 https://youtu.be/KD2AZnKRZUg<br/>
+
 -------------------------------------------------------------------------------------------------------------------------------------
 ### More about me
 [[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
